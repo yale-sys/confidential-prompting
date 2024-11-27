@@ -1,0 +1,10 @@
+<|begin_of_text|>
+<|start_header_id|>system<|end_header_id|> 
+you are a helpful assistant 
+<|eot_id|><confidential>
+<|start_header_id|>user<|end_header_id|>
+Where is the capitol city of <redacted>Uganda</redacted>?
+Also, what is the population of <redacted>Korea</redacted>?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+</confidential>
